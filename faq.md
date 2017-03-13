@@ -22,4 +22,4 @@ description: L'agenda des WalkingDev.
 | Jan, 12     | . *Toulouse*    | . **Github écriture** | . C. Aubry - S. Langlois       |
 | Déc, 16     | . *Bordeaux*    | . **Cuisine nomade**  | . B. Lambert - S. Langlois     |
 | Déc, 15     | . *Bordeaux*    | . **ELM**             | . A. Vernois - S. Langlois     |
-| Jan, 26     | . *Montpellier* | . **ELM**             | . A. Vernois - S. Langlois     |
+| Oct, 27     | . *Montpellier* | . **ELM**             | . A. Vernois - S. Langlois     |
