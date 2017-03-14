@@ -10,6 +10,8 @@ description: L'agenda des WalkingDev.
 | ---------- | --------------  | ---------------------- | ----------------------------   |
 | Mars, 15   | . *Toulouse*    | . **Jeux créatifs**    | . L. Ricaud - S. Langlois      |
 | Mars, 17   | . *Toulouse*    | . **Running Lean**     | . A. Le Guillou - S. Langlois  |
+| Mars, 22   | . *Bordeaux*    | . **Jeux créatifs**    | . L. Ricaud - S. Langlois      |
+| Mars, 28   | . *Montpellier* | . **Jeux créatifs**    | . L. Ricaud - S. Langlois      |
 | Avril, 13  | . *Montpellier* | . **Event Storming**   | . F. Trégan - S. Langlois      |
 
 ## Échus
