@@ -8,21 +8,21 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Mars, 15   | . *Toulouse*    | . **Jeux créatifs**    | . L. Ricaud - S. Langlois      |
-| Mars, 17   | . *Toulouse*    | . **Running Lean**     | . A. Le Guillou - S. Langlois  |
-| Mars, 22   | . *Bordeaux*    | . **Jeux créatifs**    | . L. Ricaud - S. Langlois      |
-| Mars, 28   | . *Montpellier* | . **Jeux créatifs**    | . L. Ricaud - S. Langlois      |
-| Avril, 13  | . *Montpellier* | . **Event Storming**   | . F. Trégan - S. Langlois      |
+| Mars, 17   | . *Toulouse*    | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)**     | . A. Le Guillou - S. Langlois  |
+| Mars, 22   | . *Bordeaux*    | . **[Jeux créatifs](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32855978115)**    | . L. Ricaud - S. Langlois      |
+| Mars, 28   | . *Montpellier* | . **[Jeux créatifs](https://www.eventbrite.fr/myevent?eid=32857022238)**    | . L. Ricaud - S. Langlois      |
+| Avril, 13  | . *Montpellier* | . **[Event Storming](https://www.eventbrite.fr/myevent?eid=32820147946)**   | . F. Trégan - S. Langlois      |
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
-| Mars, 10    | . *Toulouse*    | . **Coder autrement** | . R. Carvalho - A. Vernois     |
-| Févr, 2     | . *Montpellier* | . **Running Lean**    | . A. Le Guillou - S. Langlois  |
-| Jan, 26     | . *Montpellier* | . **Flex**            | . E. Gardin - L. Fuentes       |
-| Jan, 12     | . *Toulouse*    | . **Github écriture** | . C. Aubry - S. Langlois       |
-| Jan, 2      | . *Montpellier* | . **Running Lean**    | . A. Le Guillou - S. Langlois  |
-| Déc, 16     | . *Bordeaux*    | . **Cuisine nomade**  | . B. Lambert - S. Langlois     |
-| Déc, 15     | . *Bordeaux*    | . **ELM**             | . A. Vernois - S. Langlois     |
-| Oct, 27     | . *Montpellier* | . **ELM**             | . A. Vernois - S. Langlois     |
+| Mars, 15    | . *Toulouse*    | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v31/faq.md)**    | . L. Ricaud - S. Langlois      |
+| Mars, 10    | . *Toulouse*    | . **[Coder autrement](http://walkingdev.fr/#walkingdev/logiciel-autrement/blob/master/v31/faq.md)** | . R. Carvalho - A. Vernois     |
+| Févr, 2     | . *Montpellier* | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v34/faq.md)**    | . A. Le Guillou - S. Langlois  |
+| Jan, 26     | . *Montpellier* | . **[Flex](http://walkingdev.fr/#walkingdev/flexbox/blob/master/faq.md)**            | . E. Gardin - L. Fuentes       |
+| Jan, 12     | . *Toulouse*    | . **[Github écriture](http://walkingdev.fr/#walkingdev/github/blob/master/v-31/faq.md)** | . C. Aubry - S. Langlois       |
+| Jan, 2      | . *Montpellier* | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v34/faq.md)**    | . A. Le Guillou - S. Langlois  |
+| Déc, 16     | . *Bordeaux*    | . **[Cuisine nomade](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v33-faq.md)**  | . B. Lambert - S. Langlois     |
+| Déc, 15     | . *Bordeaux*    | . **[ELM](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/faq.md)**             | . A. Vernois - S. Langlois     |
+| Oct, 27     | . *Montpellier* | . **[ELM](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/faq.md)**             | . A. Vernois - S. Langlois     |
