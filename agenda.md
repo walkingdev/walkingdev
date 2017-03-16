@@ -11,7 +11,7 @@ description: L'agenda des WalkingDev.
 | Mars, 17   | . *Toulouse*    | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)**     | . A. Le Guillou - S. Langlois  |
 | Mars, 22   | . *Bordeaux*    | . **[Jeux créatifs](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32855978115)**    | . L. Ricaud - S. Langlois      |
 | Mars, 28   | . *Montpellier* | . **[Jeux créatifs](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32857022238)**    | . L. Ricaud - S. Langlois      |
-| Avril, 13  | . *Montpellier* | . **[Event Storming](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)**   | . F. Trégan - S. Langlois      |
+| Avril, 13  | . *Montpellier* | . **[Event Storming](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)**   | . F. Trégan - M. Lenoir        |
 
 ## Échus
 
