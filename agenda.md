@@ -8,7 +8,6 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Mars, 22   | . *Bordeaux*    | . **[Jeux créatifs](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32855978115)**    | . L. Ricaud - S. Langlois      |
 | Mars, 28   | . *Montpellier* | . **[Jeux créatifs](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32857022238)**    | . L. Ricaud - S. Langlois      |
 | Avril, 13  | . *Montpellier* | . **[Event Storming](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)**   | . F. Trégan - M. Lenoir        |
 
@@ -16,6 +15,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Mars, 22   | . *Bordeaux*    | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v33/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 17   | . *Toulouse*    | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)**     | . A. Le Guillou - S. Langlois  |
 | Mars, 15    | . *Toulouse*    | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v31/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 10    | . *Toulouse*    | . **[Coder autrement](http://walkingdev.fr/#walkingdev/logiciel-autrement/blob/master/v31/faq.md)** | . R. Carvalho - A. Vernois     |
