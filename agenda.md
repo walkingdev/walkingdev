@@ -10,6 +10,7 @@ description: L'agenda des WalkingDev.
 | ---------- | --------------  | ---------------------- | ----------------------------   |
 | Mars, 28   | . *Montpellier* | . **[Jeux créatifs](https://www.eventbrite.fr/e/billets-co-creer-ses-outils-creatifs-32857022238)**    | . L. Ricaud - S. Langlois      |
 | Avril, 13  | . *Montpellier* | . **[Event Storming](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)**   | . F. Trégan - M. Lenoir        |
+| Avril, 19     | . *Montpellier* | . **[Flexbox](http://walkingdev.fr/#walkingdev/flexbox/blob/master/faq.md)**            | . E. Gardin - S. Langlois       |
 
 ## Échus
 
