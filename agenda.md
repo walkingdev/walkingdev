@@ -14,7 +14,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
-| Avril, 13  | . *Montpellier* | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/prepare-ton-escapade.md)**   | . F. Trégan - M. Lenoir        |
+| Avril, 13  | . *Montpellier* | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/faq.md)**   | . F. Trégan - M. Lenoir        |
 | Mars, 28   | . *Montpellier* | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v34/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 22   | . *Bordeaux*    | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v33/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 17   | . *Toulouse*    | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)**     | . A. Le Guillou - S. Langlois  |
