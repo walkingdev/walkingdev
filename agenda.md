@@ -8,13 +8,13 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Avril, 13  | . *Montpellier* | . **[Event Storming](https://www.eventbrite.fr/e/billets-event-storming-la-tete-dans-la-tempete-32820147946)**   | . F. Trégan - M. Lenoir        |
 | Avril, 19     | . *Montpellier* | . **[Flexbox](http://walkingdev.fr/#walkingdev/flexbox/blob/master/faq.md)**            | . E. Gardin - S. Langlois       |
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Avril, 13  | . *Montpellier* | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/prepare-ton-escapade.md)**   | . F. Trégan - M. Lenoir        |
 | Mars, 28   | . *Montpellier* | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v34/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 22   | . *Bordeaux*    | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v33/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 17   | . *Toulouse*    | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)**     | . A. Le Guillou - S. Langlois  |
