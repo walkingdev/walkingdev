@@ -15,7 +15,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
-| Mars, 28   | . *Montpellier* | . **[Jeux créatifs]((http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v34/faq.md)**    | . L. Ricaud - S. Langlois      |
+| Mars, 28   | . *Montpellier* | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v34/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 22   | . *Bordeaux*    | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v33/faq.md)**    | . L. Ricaud - S. Langlois      |
 | Mars, 17   | . *Toulouse*    | . **[Running Lean](http://walkingdev.fr/#walkingdev/trampolean/blob/master/v31/faq.md)**     | . A. Le Guillou - S. Langlois  |
 | Mars, 15    | . *Toulouse*    | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v31/faq.md)**    | . L. Ricaud - S. Langlois      |
