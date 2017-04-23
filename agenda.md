@@ -8,7 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Avril, 25     | . *Montpellier* | . **[Cuisine collaboratisme](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v34/v34-faq.md)**            | . E. Gardin - B. Lambert       |
+| Avril, 25     | . *Montpellier* | . **[Cuisine collaborative](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v34/v34-faq.md)**            | . E. Gardin - B. Lambert       |
 
 ## Échus
 
