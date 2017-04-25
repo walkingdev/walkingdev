@@ -8,7 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Mai, 4     | . *Bordeaux*    | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/faq.md)**            | . S. Cranford - V. Tregan       |
+| Mai, 4     | . *Bordeaux*    | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v33/faq.md)**            | . S. Cranford - V. Tregan       |
 
 ## Échus
 
