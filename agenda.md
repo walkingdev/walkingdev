@@ -8,12 +8,13 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Avril, 25     | . *Montpellier* | . **[Cuisine collaborative](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v34/v34-faq.md)**            | . E. Gardin - B. Lambert       |
+| Mai, 4     | . *Bordeaux*    | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/faq.md)**            | . S. Cranford - V. Tregan       |
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Avril, 25     | . *Montpellier* | . **[Cuisine collaborative](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v34/v34-faq.md)**            | . E. Gardin - B. Lambert       |
 | Avril, 19     | . *Montpellier* | . **[Flexbox](http://walkingdev.fr/#walkingdev/flexbox/blob/master/faq.md)**            | . E. Gardin - S. Langlois       |
 | Avril, 13  | . *Montpellier* | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v34/faq.md)**   | . F. Trégan - M. Lenoir        |
 | Mars, 28   | . *Montpellier* | . **[Jeux créatifs](http://walkingdev.fr/#walkingdev/jeux-creatifs/blob/master/v34/faq.md)**    | . L. Ricaud - S. Langlois      |
