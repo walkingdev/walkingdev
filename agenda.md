@@ -8,7 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Juin, 21     | . *Montpellier*    | . **[DarkTable](http://walkingdev.fr/#walkingdev/darktable/blob/master/v34/faq.md)**            | . T. Jouannic -                |
+| Juin, 21     | . *Montpellier*    | . **[DarkTable](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/faq.md)**            | . T. Jouannic -                |
 
 ## Échus
 
