@@ -8,12 +8,12 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Juin, 21     | . *Montpellier*    | . **[DarkTable](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/faq.md)**            | . T. Jouannic -                |
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Juin, 21     | . *Montpellier*    | . **[DarkTable](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/faq.md)**            | . T. Jouannic - N. Perriault                |
 | Mai, 4     | . *Bordeaux*    | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v33/faq.md)**            | . S. Cranford - V. Tregan       |
 | Avril, 25     | . *Montpellier* | . **[Cuisine collab](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v34/v34-faq.md)**            | . E. Gardin - B. Lambert       |
 | Avril, 19     | . *Montpellier* | . **[Flexbox](http://walkingdev.fr/#walkingdev/flexbox/blob/master/faq.md)**            | . E. Gardin - S. Langlois       |
