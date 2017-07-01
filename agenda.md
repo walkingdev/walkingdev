@@ -8,6 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
+| Juillet, 4  | . *Toulouse*    | . **[Brouillards & boussoles](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . T. Jouannic - N. Perriault 
 
 ## Échus
 
