@@ -9,7 +9,6 @@ description: L'agenda des WalkingDev.
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
 | Juil, 4   | . *Toulouse*       | . **[Brouillards & boussoles](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
-| Juil, 4    | . *Toulouse*    |      | . F. Monod - L. Lacayrouze |
 
 ## Échus
 
