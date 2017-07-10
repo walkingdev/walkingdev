@@ -8,7 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Aout, 30   | . *Toulouse*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v33/faq.md)**            | . C. Aubry - N. Richand      |
+| Aout, 30   | . *Toulouse*    | . **[PermAgilité](https://github.com/walkingdev/permagilite/blob/master/v31/faq.md)**            | . C. Aubry - N. Richand- F. Aimetti |
 
 ## Échus
 
