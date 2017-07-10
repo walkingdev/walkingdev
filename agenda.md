@@ -14,7 +14,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
-| Juil, 4   | . *Toulouse*       | . **[Brouillards & boussoles](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
+| Juil, 4   | . *Toulouse*       | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Juin, 21     | . *Montpellier*    | . **[DarkTable](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/faq.md)**            | . T. Jouannic - N. Perriault                |
 | Mai, 4     | . *Bordeaux*    | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v33/faq.md)**            | . S. Cranford - V. Tregan       |
 | Avril, 25     | . *Montpellier* | . **[Cuisine collab](http://walkingdev.fr/#walkingdev/cuisine/blob/master/v34/v34-faq.md)**            | . E. Gardin - B. Lambert       |
