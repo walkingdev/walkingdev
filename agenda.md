@@ -8,12 +8,13 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Aout, 30   | . *Toulouse*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**            | . C. Aubry - N. Richand- F. Aimetti |
+| Octobre, 6  | . *Rennes*    | . **[Lab'n Collab](http://walkingdev.fr/#walkingdev/labncollab)**| . X. Coadic - N. Renaud |
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Aout, 30   | . *Toulouse*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**            | . C. Aubry - N. Richand- F. Aimetti |
 | Juil, 4   | . *Toulouse*       | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Juin, 21     | . *Montpellier*    | . **[DarkTable](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/faq.md)**            | . T. Jouannic - N. Perriault                |
 | Mai, 4     | . *Bordeaux*    | . **[Event Storming](http://walkingdev.fr/#walkingdev/event-storming/blob/master/v33/faq.md)**            | . S. Cranford - V. Tregan       |
