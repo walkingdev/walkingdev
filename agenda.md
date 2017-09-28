@@ -9,6 +9,9 @@ description: L'agenda des WalkingDev.
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
 | Octobre, 6  | . *Rennes*    | . **[Lab'n Collab](http://walkingdev.fr/#walkingdev/labncollab)**| . X. Coadic - N. Renaud |
+| Octobre, 18  | . *Paris*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**| . N. Richand |
+
+
 
 ## Échus
 
