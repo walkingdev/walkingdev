@@ -8,8 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Octobre, 6  | . *Rennes*    | . **[Lab'n Collab](http://walkingdev.fr/#walkingdev/labncollab)**| . X. Coadic - N. Renaud |
-| Octobre, 18  | . *Paris*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**| . N. Richand |
+| Novembre, 30 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 
 
 
@@ -17,8 +16,9 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
-| Octobre, 6  | . *Rennes*    | . **[Lab'n Collab](http://walkingdev.fr/#walkingdev/labncollab)**| . X. Coadic - N. Renaud |
+| Octobre, 24  | . *Toulouse*       | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Octobre, 18  | . *Paris*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**| . N. Richand |
+| Octobre, 6  | . *Rennes*    | . **[Lab'n Collab](http://walkingdev.fr/#walkingdev/labncollab)**| . X. Coadic - N. Renaud |
 | Aout, 30   | . *Toulouse*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**            | . C. Aubry - N. Richand- F. Aimetti |
 | Juil, 4   | . *Toulouse*       | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Juin, 21     | . *Montpellier*    | . **[DarkTable](http://walkingdev.fr/#walkingdev/darktable/blob/master/v-34/faq.md)**            | . T. Jouannic - N. Perriault                |
