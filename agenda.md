@@ -9,6 +9,7 @@ description: L'agenda des WalkingDev.
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
 | Novembre, 30 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
+| Décembre, 12 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 
 
 
