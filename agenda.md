@@ -8,7 +8,6 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Novembre, 30 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Décembre, 12 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 
 
@@ -17,6 +16,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Novembre, 30 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Novembre, 8 | . *Montpellier*     | . **[CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md)**            | . J. Barbelane - A. Junior  |
 | Octobre, 24  | . *Toulouse*       | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Octobre, 18  | . *Paris*    | . **[PermAgilité](http://walkingdev.fr/#walkingdev/permagilite/blob/master/faq.md)**| . N. Richand |
