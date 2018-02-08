@@ -8,7 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Décembre, 12 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
+| Mars, 3.   | . *Paris*     | . **[Plein Phare](http://walkingdev.fr/#walkingdev/plein-phare/blob/master/faq.md)**            | . Julia - Sonia - Louna - Stéphane  |
 
 
 
@@ -16,6 +16,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Décembre, 12 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Novembre, 30 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Novembre, 8 | . *Montpellier*     | . **[CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34/faq.md)**            | . J. Barbelane - A. Junior  |
 | Octobre, 24  | . *Toulouse*       | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
