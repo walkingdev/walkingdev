@@ -8,7 +8,6 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Mars, 7.   | . *Montpellier*     | . **[Exploration sonore](http://walkingdev.fr/#walkingdev/exploration-sonore/blob/master/faq.md)**            | . Aude - Luidgi  |
 | Mars, 31.  | *Montpellier*  | . **[Plein Phare](http://walkingdev.fr/#walkingdev/plein-phare/blob/master/faq.md)**            | . Julia - Sonia - Louna   |
 
 
@@ -16,6 +15,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Mars, 7.   | . *Montpellier*     | . **[Exploration sonore](http://walkingdev.fr/#walkingdev/exploration-sonore/blob/master/faq.md)**            | . Aude - Luidgi  |
 | Fév, 17.   | . *Montpellier*     | . **[BP vs BM](http://walkingdev.fr/#walkingdev/bp-vs-bm/blob/master/faq.md)**            | . Élie - Stéphane  |
 | Décembre, 12 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
 | Novembre, 30 | . *Montpellier*     | . **[Brouillards](http://walkingdev.fr/#walkingdev/brouillards-boussoles/blob/master/faq.md)**            | . F. Monod - M. Lacayrouze  |
