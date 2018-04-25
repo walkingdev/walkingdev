@@ -8,8 +8,9 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Juillet, 6.| *Toulouse*      | . **[Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)**            | . S. Serrot - D. Benoist - C. Aubry   |
+| Juin, 7     | . *Bordeaux* | . **[Apprendre](http://walkingdev.fr/#walkingdev/apprendre/blob/master/faq.md)**            | . P. Romain - S. Langlois       |
 | Juin, 22.  | *Pau*           | . **[Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)**            | . S. Serrot - D. Benoist  |
+| Juillet, 6.| *Toulouse*      | . **[Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)**            | . S. Serrot - D. Benoist - C. Aubry   |
 
 
 ## Échus
