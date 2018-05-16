@@ -9,6 +9,7 @@ description: L'agenda des WalkingDev.
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
 | Mai, 16    | Montpellier 	   | [Exploration sonore](http://walkingdev.fr/#walkingdev/exploration-sonore/blob/master/faq.md) 	  | Aude - Luidgi                  |
+| Juin, 1.     | Bordeaux | [Product Owner](http://walkingdev.fr/#walkingdev/product-owner/blob/master/faq.md)            | P. Romain - S. Langlois       |
 | Juin, 6.     | Bordeaux | [Apprendre sans trop se faire éduquer](http://walkingdev.fr/#walkingdev/apprendre/blob/master/faq.md)            | P. Romain - S. Langlois       |
 | Juin, 22.  | Pau           | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist  |
 | Juillet, 6.| Toulouse      | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist - C. Aubry   |
