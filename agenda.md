@@ -8,7 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Septembre, 1.| Montpellier      | [Communication NonViolente](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md)            | . J. Barbelane - M. Plat  |
+| Septembre, 1.| Montpellier      | [Communication NonViolente](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md)            | J. Barbelane - M. Plat  |
 
 
 ## Échus
