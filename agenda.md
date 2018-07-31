@@ -8,15 +8,16 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date       | Lieux           | Sujet                  | Animateurs                     |
 | ---------- | --------------  | ---------------------- | ----------------------------   |
-| Juin, 22.  | Pau           | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist  |
-| Juillet, 6.| Toulouse      | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist - C. Aubry   |
-| Juin, 20   | Montpellier 	   | [Mix in the box](http://walkingdev.fr/#walkingdev/mix-in-the-box/blob/master/v-34/faq.md) 	  | R.Dupont - S.Langlois                 |
+| Septembre, 1.| Montpellier      | [Communication NonViolente](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md)            | J. Barbelane - M. Plat  |
 
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Juillet, 6.| Toulouse      | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist - C. Aubry   |
+| Juin, 22.  | Pau           | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist  |
+| Juin, 20   | Montpellier 	   | [Mix in the box](http://walkingdev.fr/#walkingdev/mix-in-the-box/blob/master/v-34/faq.md) 	  | R.Dupont - S.Langlois                 |
 | Mai, 16    | Montpellier 	   | [Exploration sonore](http://walkingdev.fr/#walkingdev/exploration-sonore/blob/master/faq.md) 	  | Aude - Luidgi                  |
 | Juin, 6.     | Bordeaux | [Apprendre sans trop se faire éduquer](http://walkingdev.fr/#walkingdev/apprendre/blob/master/faq.md)            | P. Romain - S. Langlois       |
 | Mars, 31.  | *Montpellier*  | . **[Plein Phare](http://walkingdev.fr/#walkingdev/plein-phare/blob/master/faq.md)**            | . Julia - Sonia - Louna   |
