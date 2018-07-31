@@ -6,9 +6,9 @@ description: L'agenda des WalkingDev.
 # Agenda des WalkingDev
 
 ## À venir
-| Date       | Lieux           | Sujet                  | Animateurs                     |
-| ---------- | --------------  | ---------------------- | ----------------------------   |
-| Sept, 1.   | Montpellier      | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md)            | J. Barbelane - M. Plat  |
+| Date        | Lieux           | Sujet                  | Animateurs                   |
+| ----------- | --------------  | ---------------------- | ---------------------------- |
+| Sept, 1.    | *Montpellier*     | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
 
 
 ## Échus
