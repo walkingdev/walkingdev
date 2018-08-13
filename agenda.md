@@ -8,6 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date        | Lieux           | Sujet                  | Animateurs                   |
 | ----------- | --------------  | ---------------------- | ---------------------------- |
+| Août, 31.    | *Paris*        | [COaching](http://walkingdev.fr/#walkingdev/coaching/blob/master/v-75/faq.md) 	  | C. Robillard - S. Langlois  |
 | Sept, 1.    | *Montpellier*     | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
 
 
