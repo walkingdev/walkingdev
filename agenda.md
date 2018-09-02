@@ -8,14 +8,14 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date        | Lieux           | Sujet                  | Animateurs                   |
 | ----------- | --------------  | ---------------------- | ---------------------------- |
-| Août, 31.    | *Paris*        | [Coaching](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/faq.md) 	  | C. Robillard - S. Langlois  |
-| Sept, 1.    | *Montpellier*     | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
 
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Sept, 1.    | *Montpellier*     | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
+| Août, 31.    | *Paris*        | [Coaching](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/faq.md) 	  | C. Robillard - S. Langlois  |
 | Juillet, 6.| Toulouse      | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist - C. Aubry   |
 | Juin, 22.  | Pau           | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist  |
 | Juin, 20   | Montpellier 	   | [Mix in the box](http://walkingdev.fr/#walkingdev/mix-in-the-box/blob/master/v-34/faq.md) 	  | R.Dupont - S.Langlois                 |
