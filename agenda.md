@@ -8,7 +8,7 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date        | Lieux           | Sujet                  | Animateurs                   |
 | ----------- | --------------  | ---------------------- | ---------------------------- |
-| Novembre, 6 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayot  |
+| Novembre, 6 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayo  |
 
 
 ## Échus
