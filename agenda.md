@@ -8,14 +8,14 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date        | Lieux           | Sujet                  | Animateurs                   |
 | ----------- | --------------  | ---------------------- | ---------------------------- |
+| Novembre, 6 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayot  |
 
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
-| Novembre, 6. | *Paris* | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) |
-| Sept, 1.    | *Montpellier*     | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
+| Sept, 1.    | *Montpellier*   | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
 | Août, 31.    | *Paris*        | [Coaching](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/faq.md) 	  | C. Robillard - S. Langlois  |
 | Juillet, 6.| Toulouse      | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist - C. Aubry   |
 | Juin, 22.  | Pau           | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist  |
