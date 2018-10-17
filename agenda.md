@@ -8,8 +8,8 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date        | Lieux           | Sujet                  | Animateurs                   |
 | ----------- | --------------  | ---------------------- | ---------------------------- |
+| Novembre, 2 | *Toulouse*      | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-31/faq.md) | M. Lenoir - ?          |
 | Novembre, 6 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayo  |
-
 
 ## Échus
 
