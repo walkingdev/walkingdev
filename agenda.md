@@ -8,13 +8,14 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date        | Lieux           | Sujet                  | Animateurs                   |
 | ----------- | --------------  | ---------------------- | ---------------------------- |
-| Novembre, 2, 2018 | *Toulouse*      | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-31/faq.md) | M. Lenoir - P. Blayo     |
-| Novembre, 6, 2018 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayo  |
+| | | |  |
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Novembre, 2, 2018 | *Toulouse*      | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-31/faq.md) | M. Lenoir - P. Blayo     |
+| Novembre, 6, 2018 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayo  |
 | Sept, 1, 2018    | *Montpellier*   | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
 | Août, 31, 2018    | *Paris*        | [Coaching](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/faq.md) 	  | C. Robillard - S. Langlois  |
 | Juillet, 6, 2018 | Toulouse      | [Entreprise libérée](http://walkingdev.fr/#walkingdev/entreprise-liberee/blob/master/v64/faq.md)            | . S. Serrot - D. Benoist - C. Aubry   |
