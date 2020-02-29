@@ -14,6 +14,7 @@ description: L'agenda des WalkingDev.
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
+| Février, 12, 2020 | *Montpellier*      | [CNV](http://walkingdev.fr/#walkingdev/the/blob/master/v-34/faq.md) | Thaïs - S. Langlois |
 | Novembre, 2, 2018 | *Toulouse*      | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-31/faq.md) | M. Lenoir - P. Blayo     |
 | Novembre, 6, 2018 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayo  |
 | Sept, 1, 2018    | *Montpellier*   | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
