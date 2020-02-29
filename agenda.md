@@ -8,13 +8,13 @@ description: L'agenda des WalkingDev.
 ## À venir
 | Date        | Lieux           | Sujet                  | Animateurs                   |
 | ----------- | --------------  | ---------------------- | ---------------------------- |
-| Mars, 17, 2020 | *Nantes*      | [CNV](https://thedechine.oisiflorus.com) | Thaïs - S. Langlois |
+| Mars, 17, 2020 | *Nantes*      | [thé de Chine](https://thedechine.oisiflorus.com) | Thaïs - S. Langlois |
 
 ## Échus
 
 | Date        | Lieux           | Sujet                 | Animateurs                     |
 | ----------  | --------------  | --------------------- | ------------------------------ |
-| Février, 12, 2020 | *Montpellier*      | [CNV](https://thedechine.oisiflorus.com/montpellier/invitation.html) | Thaïs - S. Langlois |
+| Février, 12, 2020 | *Montpellier*      | [thé de Chine](https://thedechine.oisiflorus.com/montpellier/invitation.html) | Thaïs - S. Langlois |
 | Novembre, 2, 2018 | *Toulouse*      | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-31/faq.md) | M. Lenoir - P. Blayo     |
 | Novembre, 6, 2018 | *Paris*         | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-75/faq.md) | J. Barbelane - P. Blayo  |
 | Sept, 1, 2018    | *Montpellier*   | [CNV](http://walkingdev.fr/#walkingdev/cnv/blob/master/v-34-2/faq.md) 	  | J. Barbelane - M. Plat  |
